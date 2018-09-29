@@ -1,0 +1,9 @@
+module.exports = {
+  dbPort : 27017,
+  dbHost : "localhost",
+  dbName : stlr,
+  dbPass : "standalone",
+  HTTP_PORT : 11111,
+  PUBLIC_HTTP_PORT : true,
+  RUN_STANDALONE : true
+}
